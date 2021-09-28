@@ -1,7 +1,8 @@
 import React from "react";
+import GoodsList from "../../src/feature/goods/template/GoodsList";
 
 const index = () => {
-  return <div />;
+  return <GoodsList />;
 };
 
 export default index;
